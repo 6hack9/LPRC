@@ -1,16 +1,4 @@
-'''
-Variable
-=========================
-Variables are containers for storing data values.
 
-Rule to Declare variable
-=========================
-1) Variable names can contain only letters numbers and underscores
-2) Space are not allowed in variable but underscore can be used
-3) Avoid using Python keyword and function name as variable
-4) Variable names are case-sensitive (age, Age and AGE are three different variables)
-
-'''
 
 """ 
 Most commonly used function in string operation are
